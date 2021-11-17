@@ -1,0 +1,8 @@
+PORT="Write server port"
+MONGO_URL="Enter your mongo url"
+JWT_SECRET="Enter JWT secret key here"
+STRIPE_SECRET="Enter stripe secret key"
+REDIRECT_URL="Enter stripe redirect url"
+SETTINGS_REDIRECT_URL="Enter setting rdirect url"
+SUCCESS_URL="Enter payment success url"
+CANCEL_URL="Enter cancel url"

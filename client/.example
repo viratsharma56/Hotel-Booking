@@ -1,0 +1,4 @@
+REACT_APP_API = "Enter server host url"
+REACT_APP_STRIPE_SECRET="Enter front end stripe key"
+REACT_APP_ALGOLIA_APP_ID="Enter algolia application id"
+REACT_APP_ALGOLIA_API_KEY="Enter algolia api key"
